@@ -1,2 +1,0 @@
-# WordLookupReact
-Created with CodeSandbox
